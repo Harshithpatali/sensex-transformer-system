@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.mlflow
+airflow/logs/
+logs/
+models/checkpoints/
+models/saved/
+data/raw/
+data/processed/
+data/features/
