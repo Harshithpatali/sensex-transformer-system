@@ -1,7 +1,3 @@
-﻿
-
-
-````markdown
 # 📈 Transformer-Based Quantitative AI Forecasting Platform
 
 A full-stack AI-powered quantitative trading and forecasting platform built using Transformer architecture, wavelet transforms, macroeconomic indicators, FastAPI, and Streamlit.
@@ -13,13 +9,13 @@ This project performs live market forecasting for the Indian stock market using 
 # 🚀 Live Demo
 
 ## 🌐 Streamlit Dashboard
-https://8cefdk3iis7o8vjprdresk.streamlit.app/
+[Open Dashboard](https://8cefdk3iis7o8vjprdresk.streamlit.app/)
 
 ## ⚡ FastAPI Backend
-https://sensex-transformer-system-1.onrender.com/
+[Open Backend API](https://sensex-transformer-system-1.onrender.com/)
 
 ## 📚 Swagger API Docs
-https://sensex-transformer-system-1.onrender.com/docs
+[Open Swagger Docs](https://sensex-transformer-system-1.onrender.com/docs)
 
 ---
 
@@ -402,4 +398,3 @@ This platform does NOT provide financial advice or guaranteed trading performanc
 # ⭐ If You Like This Project
 
 Please consider giving the repository a star ⭐
-````
