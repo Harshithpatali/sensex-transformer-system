@@ -36,7 +36,7 @@ refresh = st.sidebar.button(
 
 # Backend URL
 API_URL = (
-    "http://127.0.0.1:9000/live-predict"
+    "https://sensex-transformer-system-1.onrender.com/live-predict"
 )
 
 # Main logic
